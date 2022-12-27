@@ -1,0 +1,146 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background: no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+input{
+	width: 300px;
+	border-radius: 10px;
+	padding-left: 10px;
+	height: 35px;
+	align-items: center;
+	margin-top: 15px;
+	margin-right: 20px;
+}
+a{
+	text-decoration:none; 
+	font-size: 20px;
+	color: lightgreen;
+}
+a:link, a:visited, a:active {
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+}
+button{
+	width: 150px;
+	height: 30px;
+	border-radius: 10px;
+	margin-right: 25px;
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+#geral{
+	margin: 0 auto;
+}
+#cabeçalho{
+	position: fixed;
+	width: 100%;
+	height: 125px;
+}
+#cabeçalho2{
+	width: 100%;
+	height: 125px;
+}
+#cabeçalho h1{
+	padding: 10px;
+}
+#rodape1{
+	padding: 10px;
+	text-align: center;
+	color: black;
+	position:absolute;
+	bottom: 0;
+	width:100%;
+}
+#rodape2{
+	padding: 10px;
+	text-align: center;
+	color: lightgreen;
+}
+#TabelaCabeçalho{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+#tdCabeçalho{
+	width: 50px;
+	height: 30px;
+	text-align: center;
+}
+#Login{
+	width: 700px;
+	height: 100%;
+}
+#aCabeçalho{
+	color: lightgreen;
+}
+#aPerfil{
+	color: darkgreen;
+}
+#conteudo{
+	color: blue;
+}
+#conteudoPerfil{
+	color: blue;
+	margin: 0 205px;
+	background-color:lightgray
+}
+#aCabeçalho:hover{
+	color: red;
+}
+#aCabeçalho img{
+	width: 200px;
+	height: 110px;
+	margin-top: 5px;
+}
+#aProjeto img{
+	width: 300px;
+	height: 300px;
+}
+#PesquisaProjeto{
+	width: 380px;
+	height: 25px;
+	border-radius: 10px;
+	padding-left: 10px;
+}
+#aProjeto{
+	color: lightgreen;
+}
+#ProjetosPerfil a{
+	color: darkgreen;
+}
+#ProjetosPerfil a:hover{
+	color: red;
+}
+#tdProjeto{
+	border:5px solid deepskyblue;
+}
+#tdProjetoPerfil{
+	border:1px solid black;
+}
+#tdProjetoPerfil img{
+	width: 790px;
+	height: 300px;
+}
+#ImgPerfil{
+	width: 300px;
+	height: 300px;
+}
+#aLogin{
+	color: blue;
+	text-decoration:none; 
+	font-size: 20px;
+}
+#aLogin:hover{
+	color: red;
+}

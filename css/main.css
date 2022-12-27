@@ -1,0 +1,47 @@
+.carousel {
+  
+  height: 100%;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+
+}
+  
+footer{
+  
+    background-color: black;
+  
+  }
+
+.link {
+
+color:#72A603;
+
+}
+
+.link:hover {
+
+  color:#2D8CEB;
+
+}
+
+.naoLink {
+
+  color: #2D8CEB;
+
+}
+
+nav {
+
+  text-align: right;
+  font-size: 15px;
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+footer{
+
+  font-family: 'Audiowide', cursive;
+
+}
